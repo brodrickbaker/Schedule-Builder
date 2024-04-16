@@ -1,0 +1,19 @@
+I want to create an application that can easily build weekly schedules
+
+Should save employee schedules and make it easy to adjust from week to week as needed.
+
+Should easily be able to enter time off requests.
+
+Will give daily and weekly hour totals for employees based on schedule. 
+
+Will automatically account for 30 mninute lunchbreak of non-managemenet employees. 
+
+Should make sure that there is coverage for stores when time-off requests are put in.
+
+In future should automatically adjust for coverage based on time-off requests.
+
+
+Each employee will be a class storing information about the employee
+Each location will be a class storing employees who work at said location and hours
+
+Will use javascript to build and display schedule dynamically
